@@ -93,7 +93,7 @@ Baixe os arquivos trimestrais de 2019 (`Divvy_Trips_2019_Q1.zip` até `Q4`) e sa
 pip install -r requirements.txt
 ```
 
-### 3. Executar o notebook
+### 3. Executar o notebook.
 
 ```bash
 jupyter notebook notebooks/analise_cyclistic.ipynb
